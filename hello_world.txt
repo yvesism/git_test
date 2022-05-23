@@ -1,0 +1,5 @@
+hello
+git 
+repo
+staging area
+git add
